@@ -3,12 +3,13 @@
 
 **tarwati-aya/tarwati-aya** 
 
-![Banner](https://raw.githubusercontent.com/tarwati-aya/tarwati-aya/blob/main/assets/header.svg)
+
+![Banner](banner.png)
 
 [Profile views](https://komarev.com/ghpvc/?username=tarwati-aya&color=0e75b6&style=flat)
 
 
-لمتحرك -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9AFF&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Tarwati-Aya+%F0%9F%91%8B;D%C3%A9veloppeur+Python+%F0%9F%90%8D;Mon+code+a+une+touche+Marocaine+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)
 
 ### 👨‍💻 Qui est Tarwati-Aya ?

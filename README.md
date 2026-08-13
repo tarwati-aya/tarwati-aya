@@ -5,9 +5,9 @@
 
 
 
-![Banner](banner.webp)
+[![Banner](banner.webp)
 
-[Profile views](https://komarev.com/ghpvc/?username=tarwati-aya&color=0e75b6&style=flat)
+[Profile views](https://komarev.com/ghpvc/?username=tarwati-aya&color=0e75b6&style=flat)](https://github.com/tarwati-aya/tarwati-aya/blob/main/banner.webp)
 
 
 Here are some ideas to get you started:

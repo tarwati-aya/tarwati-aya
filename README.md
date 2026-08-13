@@ -6,11 +6,8 @@
 
 <img src="banner.png" width="100%" alt="Banner" />
 
-![Profile views](https://komarev.com/ghpvc/?username=tarwati-aya&color=0e75b6&style=flat)
+![Banner](https://raw.githubusercontent.com/tarwati-aya/tarwati-aya/refs/heads/main/banner.png)
 
-<img src="banner.png" width="100%" alt="Banner" />
-
-![Banner](https://raw.githubusercontent.com/tarwati-aya/tarwati-aya/master/banner.png)
 
 
 Here are some ideas to get you started:

@@ -1,8 +1,6 @@
 ## Alaoui Abdelouahed 👋  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tarwati-aya.tarwati-aya)
 
 
-**tarwati-aya/tarwati-aya** 
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2E9AFF&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Tarwati-Aya+%F0%9F%91%8B;D%C3%A9veloppeur+Python+%F0%9F%90%8D;Mon+code+a+une+touche+Marocaine+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)

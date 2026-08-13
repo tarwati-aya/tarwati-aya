@@ -5,7 +5,9 @@
 
 
 
+![Banner](banner.webp)
 
+[Profile views](https://komarev.com/ghpvc/?username=tarwati-aya&color=0e75b6&style=flat)
 
 
 Here are some ideas to get you started:

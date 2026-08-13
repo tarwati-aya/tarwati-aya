@@ -6,6 +6,8 @@
 
 ![Banner](banner.png)
 
+<img src="https://raw.githubusercontent.com/tarwati-aya/tarwati-aya/refs/heads/main/tkinter.png
+" width="100%" />
 [Profile views](https://komarev.com/ghpvc/?username=tarwati-aya&color=0e75b6&style=flat)
 
 

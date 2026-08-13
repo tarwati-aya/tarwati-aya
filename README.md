@@ -4,9 +4,7 @@
 **tarwati-aya/tarwati-aya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<img src="banner.png" width="100%" alt="Banner" />
 
-![Banner](https://raw.githubusercontent.com/tarwati-aya/tarwati-aya/refs/heads/main/banner.png)
 
 
 

@@ -4,7 +4,9 @@
 **tarwati-aya/tarwati-aya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<img width="2736" height="912" alt="image" src="https://github.com/user-attachments/assets/8122cd7a-8e7c-4661-a80e-b758926bbb75" />
+<img src="https://raw.githubusercontent.com/tarwati-aya/tarwati-aya/refs/heads/main/banner.webp" width="100%" />
+
+[Profile views](https://komarev.com/ghpvc/?username=tarwati-aya&color=0e75b6&style=flat)
 
 
 

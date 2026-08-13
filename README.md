@@ -1,7 +1,7 @@
 ## Alaoui Abdelouahed 👋  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tarwati-aya.tarwati-aya)
 
 <!--
-**tarwati-aya/tarwati-aya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tarwati-aya/tarwati-aya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 ![Banner](https://raw.githubusercontent.com/tarwati-aya/tarwati-aya/blob/main/assets/header.svg)

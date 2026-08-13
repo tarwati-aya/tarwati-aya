@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github.com/tarwati-aya/tarwati-aya/blob/main/banner.webp?raw=true" width="100%" />
+<img src="https://github.com/tarwati-aya/tarwati-aya/blob/main/banner.webp" width="100%" />
 
 [Profile views](https://komarev.com/ghpvc/?username=tarwati-aya&color=0e75b6&style=flat)
 

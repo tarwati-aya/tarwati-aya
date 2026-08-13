@@ -2,12 +2,6 @@
 
 <!--
 **tarwati-aya/tarwati-aya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github.com/tarwati-aya/assets/blob/main/header.svg
-
-![Banner](https://raw.githubusercontent.com/tarwati-aya/assets/blob/main/header.svg)
-
-[Profile views](https://komarev.com/ghpvc/?username=tarwati-aya&color=0e75b6&style=flat)
-
 
 
 Here are some ideas to get you started:
